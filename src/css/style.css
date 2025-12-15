@@ -1,0 +1,16 @@
+body{
+    font-family: cursive;
+    background-color: rgb(254, 255, 181);
+    color:rgb(51, 48, 7);
+}
+.encabezado{font-family: 'Franklin Gothic Medium';
+    font-size: x-large;
+    color:rgb(211, 197, 1);
+    background-color: black;
+}
+img{
+    width:200px;
+    height:250px;
+    border-radius: 75%;
+    object-fit: cover;
+}
