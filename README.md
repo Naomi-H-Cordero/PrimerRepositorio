@@ -1,2 +1,3 @@
 # PrimerRepositorio
-Primer repositorio (de prueba).
+
+Primer repositorio creado con html y algo de CSS.
